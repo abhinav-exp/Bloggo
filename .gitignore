@@ -1,1 +1,5 @@
 venv
+
+# Bloggo/__pycache__/
+# BlogApp/__pycache__/
+# BlogApp/migrations/__pycache__/
